@@ -1,5 +1,4 @@
-#include “main.h”                                                                                                                   
-
+#include "main.h"
 /**                                                                                                                                 
 
 * main - check the code                                                                                                             
@@ -22,5 +21,5 @@ else
 
 return (0);                                                                                                                         
 
-} 
+}
 
