@@ -1,9 +1,7 @@
 #include "main.h"
 /**
-* main - main block
-*
-* Return: Always 0 Success
-*/
+* A function that prints the alphabet
+**/
 void print_alphabet(void)
 {
 char c;
