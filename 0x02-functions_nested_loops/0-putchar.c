@@ -1,11 +1,19 @@
-#include <main.h>
+#include "main.h"
 /**
-* main - Entry point
+* main - main block
 *
-* Return: Always 0 Success
+* Return: 0 Success
 */
 int main(void)
 {
-_putchar('P');
-Return (0);
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
 }
