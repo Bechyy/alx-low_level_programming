@@ -1,17 +1,34 @@
-#include "main.h"
-/**
-* main - entry point
-* printing lower case alphabets 10 times.
-*
-*/
-void print_alphabet_x10(void)
-{
-int i;
-char c;
-for (i = 0; i < 10; i++)
-{
-for (c = 'a'; c <= 'z'; c++)
-_putchar(c);
-_putchar('\n');
+#include "main.h"                                                                                                                   
+
+/**                                                                                                                                 
+
+* main - entry point                                                                                                                
+
+* Description: print alphabet_x10                                                                                            
+
+*                                                                                                                                   
+
+*/                                                                                                                                  
+
+void print_alphabet_x10(void)                                                                                                       
+
+{                                                                                                                                   
+
+int i;                                                                                                                              
+
+char c;                                                                                                                             
+
+for (i = 0; i < 10; i++)                                                                                                            
+
+{                                                                                                                                   
+
+for (c = 'a'; c <= 'z'; c++)                                                                                                        
+
+_putchar(c);                                                                                                                        
+
+_putchar('\n');                                                                                                                     
+
+}                                                                                                                                   
+
 }
-}
+
