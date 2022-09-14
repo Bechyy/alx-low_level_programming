@@ -4,7 +4,7 @@
 
 * main - entry point                                                                                                                
 
-* Description: print alphabet_x10                                                                                            
+* print alphabet_x10                                                                                            
 
 *                                                                                                                                   
 
