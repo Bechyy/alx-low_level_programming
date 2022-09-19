@@ -20,7 +20,7 @@ void print_rev(char *s)
 
     ;
 
-    for (index = index - l; s[index] != '\0'; index--)
+    for (index = index - 1; s[index] != '\0'; index--)
 
     {
 
